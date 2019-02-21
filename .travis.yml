@@ -1,3 +1,7 @@
 language: ruby
+branches:
+  - master
+  - broken
 rvm:
   - 2.2
+  - 2.4
