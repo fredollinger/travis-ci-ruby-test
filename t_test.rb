@@ -2,4 +2,4 @@
 
 require "minitest/autorun"
 
-puts "Travis CI Ruby Test"
+abort("She cannot take any more of this, Captain!")
